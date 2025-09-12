@@ -1,15 +1,14 @@
 # Dashboard-Excel
 
-Indice
-
-°Sobre o projeto
-°Funcionalidades
-°Previa
-°Estrutura dos arquivos
-°Como usar
-°Origem dos dados
-°Requisitos 
-°Licensa
+Indice\
+°Sobre o projeto\
+°Funcionalidades\
+°Previa\
+°Estrutura dos arquivos\
+°Como usar\
+°Origem dos dados\
+°Requisitos\
+°Licensa\
 °Contato
 ##
 Sobre o projeto
