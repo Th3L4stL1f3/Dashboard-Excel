@@ -63,5 +63,5 @@ Este projeto está licenciado sob a lincença MIT. Sinta-se livre para usar, mod
 
 # Contato
 
-Lucas Benevides Souza Azin
+Lucas Benevides Souza Azin\
 luz_ao@hotmail.com
