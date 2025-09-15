@@ -60,3 +60,8 @@ Microsoft Excel 2019 ou superior (recomendado Excel 365)
 
 # Licença
 Este projeto está licenciado sob a lincença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
+# Contato
+
+Lucas Benevides Souza Azin
+luz_ao@hotmail.com
