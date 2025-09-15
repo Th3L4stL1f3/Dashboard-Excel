@@ -11,19 +11,19 @@ Indice\
 °Licensa\
 °Contato
 ##
-Sobre o projeto
+# Sobre o projeto
 
 Este projeto tem como objetivo mostrar a analise de vendas anual de um loja de veiculos em fortaleza, no Microsoft Excel. O dashboard permite monitorar as vendas do ano de 2024, com base nas marcas, nos veiculos e nos vendedores, mostrando o valor vendido, a quantidade e a comissao entregue para cada vendedor.
 Projeto ideal para monitorar o andamento das vendas, interpretar dados e tomar decisoes especificas sobre estoque, insights de marketing para produtos especificos.
 ##
-Funcionalidades
+# Funcionalidades
 
 °Painel interativo contendo segmentações, cards e graficos dinâmicos
 °Indicadores de desempenho
 °Relatórios automáticos
 °Atualização da base de dados
 ##
-Prévia
+# Prévia
 
 <img width="1147" height="730" alt="Captura de tela 2025-09-12 112252" src="https://github.com/user-attachments/assets/0cc7944c-c282-40a6-b49e-3f945f22ed35" />
 
