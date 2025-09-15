@@ -43,13 +43,13 @@ Prévia
 Dashboard\
 ____ Dashboard.xlsx\
 ____ README.MD\
-____ LICENSE\
+____ LICENSE
 
 # Como Usar
-Clone este repositorio ou baixe o .zip:
-git clone https://github.com/Th3L4stL1f3/Dashboard-Excel.git
-Abra o arquivo Dashboards.xlsx no Excel.
-Atualize os daods na planilha Base de Dados.
+Clone este repositorio ou baixe o .zip:\
+git clone https://github.com/Th3L4stL1f3/Dashboard-Excel.git\
+Abra o arquivo Dashboards.xlsx no Excel.\
+Atualize os daods na planilha Base de Dados.\
 Navegue pelo painel para visualizar os insights.
 
 # Origem dos dados
@@ -57,3 +57,6 @@ Dados de vendas de uma empresa de automoveis em fortaleza no ano de 2024, com ba
 
 # Requisitos
 Microsoft Excel 2019 ou superior (recomendado Excel 365)
+
+# Licença
+Este projeto está licenciado sob a lincença MIT. Sinta-se livre para usar, modificar e compartilhar.
