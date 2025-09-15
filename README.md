@@ -47,7 +47,7 @@ ____ LICENSE
 
 # Como Usar
 Clone este repositorio ou baixe o .zip:\
-git clone https://github.com/Th3L4stL1f3/Dashboards.xlsx\
+git clone https://[github.com/Th3L4stL1f3/Dashboards.xlsx](https://github.com/Th3L4stL1f3/Dashboard-Excel/blob/main/Dashboards.xlsx)\
 Abra o arquivo Dashboards.xlsx no Excel.\
 Atualize os daods na planilha Base de Dados.\
 Navegue pelo painel para visualizar os insights.
