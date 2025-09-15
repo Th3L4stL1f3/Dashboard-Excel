@@ -36,3 +36,23 @@ Prévia
 <img width="758" height="704" alt="Captura de tela 2025-09-12 112417" src="https://github.com/user-attachments/assets/ee58e2c7-572e-4961-95df-8194ffc68316" />
 
 <img width="1015" height="760" alt="Captura de tela 2025-09-12 112432" src="https://github.com/user-attachments/assets/13b9085e-4942-408e-af79-ed5d3a6fdd41" />
+
+
+# Estrutura de Arquivos
+dashboard-loja
+____ Dashboard.xlsx
+____ README.MD
+____ LICENSE
+
+# Como Usar
+Clone este repositorio ou baixe o .zip:
+git clone https://github.com/Th3L4stL1f3/Dashboard-Excel.git
+Abra o arquivo Dashboards.xlsx no Excel.
+Atualize os daods na planilha Base de Dados.
+Navegue pelo painel para visualizar os insights.
+
+# Origem dos dados
+Dados de vendas de uma empresa de automoveis em fortaleza no ano de 2024, com base em algumas marcas e modelos de carros.
+
+# Requisitos
+Microsoft Excel 2019 ou superior (recomendado Excel 365)
