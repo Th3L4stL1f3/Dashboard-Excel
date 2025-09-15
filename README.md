@@ -39,10 +39,11 @@ Prévia
 
 
 # Estrutura de Arquivos
-dashboard-loja
-____ Dashboard.xlsx
-____ README.MD
-____ LICENSE
+
+Dashboard\
+____ Dashboard.xlsx\
+____ README.MD\
+____ LICENSE\
 
 # Como Usar
 Clone este repositorio ou baixe o .zip:
